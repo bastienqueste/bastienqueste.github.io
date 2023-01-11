@@ -1,8 +1,8 @@
 - name: People
-  link: /people/
+  link: /people.html
       
 - name: Projects
-  link: /projects/
+  link: /projects.html
       
 #- name: Publications
 #  link: /publications/
