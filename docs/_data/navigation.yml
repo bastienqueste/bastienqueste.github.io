@@ -1,16 +1,16 @@
-- name: People
-  link: /people/
+#- name: People
+#  link: /people/
       
-- name: Project
-  link: /project/
+- name: Projects
+  link: /projects/
       
-- name: Publications
-  link: /publications/
+#- name: Publications
+#  link: /publications/
       
-- name: Tools and Instruments
-  link: /tools/
-  dropdown: 
-    - name: SEA057 "King Tubby"
-      link: /SEA057/
-    - name: SEA070 "Scratch"
-      link: /SEA070/
+#- name: Tools and Instruments
+#  link: /tools/
+#  dropdown: 
+#    - name: SEA057 "King Tubby"
+#      link: /SEA057/
+#    - name: SEA070 "Scratch"
+#      link: /SEA070/

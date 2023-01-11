@@ -1,0 +1,36 @@
+style: is-light
+height: is-medium
+items:
+  - title: GO-SLOW
+    subtitle: Glider Observations of Submesoscale in Low Oxygen Waters
+    #icon: fa-space-shuttle
+    description: >
+      GO-SLOW is a collection of projects which together work to understand processes driving oxygen supply and consumption in the Gulf of Oman, home to the world thickest oxygen minimum zone.
+       
+      ONR Global Grant #N62909-21-1-2008 
+      
+      FORMAS Grant #2022-01536
+    # call_to_action_name: Read more
+    # call_to_action_link: /projects/goslow/
+    
+    
+  - title: Nord Stream
+    subtitle: Tracking methane leak for the Nord Stream blowout
+    #icon: fa-wrench
+    description: >
+      This project is a collaboration between FLOW, VOTO and Alseamar. We deployed gliders around the Nord Stream leak sites for 3 months following the blow out. 
+       
+      Data is being processed at the moment.
+    call_to_action_name: Find out more (in Swedish)
+    call_to_action_link: https://www.svt.se/nyheter/lokalt/vast/efter-nord-stream-lackorna-sa-sprids-metangasen-fortfarande-i-havet
+    
+    
+  - title: VOTO
+    subtitle: Partnership with the Voice of the Ocean Foundation
+    #icon: fa-github
+    description: >
+      Voice of the Ocean is a foundation which conducts, supports and promotes science and communication regarding the ocean and its dynamic processes.
+       
+      FLOW works closely with VOTO to improve tools and methods for observing low oxygen in the Baltic Sea.
+    call_to_action_name: See the data
+    call_to_action_link: http://observations.voiceoftheocean.org/
