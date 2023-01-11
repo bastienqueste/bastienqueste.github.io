@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
 
 # Configure format of website
+theme_color: '#074b89'
 fixed_navbar: top
 
 

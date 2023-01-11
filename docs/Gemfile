@@ -10,6 +10,9 @@ source "https://rubygems.org"
 # Run github pages instead
 gem "github-pages", "~> 227", group: :jekyll_plugins
 
+# Breaks without...
+gem "webrick"
+
 # Use the bulma-clean-theme template
 gem "bulma-clean-theme"
 
