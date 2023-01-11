@@ -27,9 +27,7 @@ url: "http://bastienqueste.github.io" # the base hostname & protocol for your si
 twitter_username: DrQueste
 github_username:  bastienqueste
 
-# Build settings
-theme: bulma-clean-theme
-#    with GitHub Pages Gem
+# Build settings with GitHub Pages Gem
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
