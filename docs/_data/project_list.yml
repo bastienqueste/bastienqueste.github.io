@@ -2,7 +2,7 @@ style: is-light
 height: is-medium
 items:
   - title: GO-SLOW
-    subtitle: Glider Observations of Submesoscale in Low Oxygen Waters
+    subtitle: Glider Observations of Submesoscales in Low Oxygen Waters
     #icon: fa-space-shuttle
     description: >
       GO-SLOW is a collection of projects which together work to understand processes driving oxygen supply and consumption in the Gulf of Oman, home to the world thickest oxygen minimum zone.
@@ -10,6 +10,15 @@ items:
       ONR Global Grant #N62909-21-1-2008 
       
       FORMAS Grant #2022-01536
+    # call_to_action_name: Read more
+    # call_to_action_link: /projects/goslow/
+    
+    
+  - title: QUICCHE
+    subtitle: QUICCHE
+    #icon: fa-space-shuttle
+    description: >
+      Pending...
     # call_to_action_name: Read more
     # call_to_action_link: /projects/goslow/
     

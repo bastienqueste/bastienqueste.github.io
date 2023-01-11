@@ -28,7 +28,7 @@ twitter_username: DrQueste
 github_username:  bastienqueste
 
 # Build settings with GitHub Pages Gem
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: bastienqueste/bulma-clean-theme
 plugins:
   - jekyll-feed
 
