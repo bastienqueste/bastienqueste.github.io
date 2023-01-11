@@ -1,9 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+title: FLOW-Lab @ Uni. Gothenburg
+subtitle: Fluxes in Low Oxygen Waters - Research lab at the University of Gothenburg
+layout: page
+callouts: home_callouts
+show_sidebar: true
 ---
+
 
 
 # Testing
