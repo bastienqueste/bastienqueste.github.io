@@ -1,13 +1,16 @@
-- name: People
+- name: • People
   link: /people.html
       
-- name: Projects
-  link: /projects.html
+- name: • Research
+  link: /research.html
       
-#- name: Publications
+#- name: • Publications
 #  link: /publications/
       
-#- name: Tools and Instruments
+- name: • Student projects
+  link: /projects.html
+      
+#- name: • Tools and Instruments
 #  link: /tools/
 #  dropdown: 
 #    - name: SEA057 "King Tubby"

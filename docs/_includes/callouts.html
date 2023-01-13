@@ -1,8 +1,6 @@
 {% if page.callouts %}
   {% assign callouts=site.data.[page.callouts] %}
-  <section class="hero {% if callouts.height %} {{ callouts.height }} {% else %} is-medium {% endif %} {{ callouts.style }}">
-    <div class="hero-body">
-      <div class="container">
+
       {% for category in callouts.categories %}
         <section class="section">
         <div class="columns is-multiline is-centered">
@@ -12,7 +10,7 @@
                 <p class="title is-3 is-medium has-text-centered">{{ callout.header }}</p>
               </div>
             {% else %}
-              <div class="column is-4 has-text-centered">
+              <div class="column {% if callouts.cell_width %} {{ callouts.cell_width }} {% else %} is-4 {% endif %} {% if callouts.cell_width %} {{ callouts.text_align }} {% else %} has-text-left {% endif %}">
                 {% if callout.icon %}
                   <div class="icon callout-icon">
                   {% if callout.icon_brand %}
@@ -25,7 +23,7 @@
                 <p class="subtitle is-5">{{ callout.subtitle }}</p>
                 {% if callout.description %}
                   <div class="content">
-                    <p>{{ callout.description | newline_to_br }}</p>
+                    <p>{{ callout.description | markdownify }}</p> <!-- | newline_to_br  -->
                   </div>
                 {% endif %}
                 {% if callout.call_to_action_name %}
@@ -37,7 +35,5 @@
         </div>
         </section>
       {% endfor %}
-      </div>
-    </div>
-  </section>
+
 {% endif %}

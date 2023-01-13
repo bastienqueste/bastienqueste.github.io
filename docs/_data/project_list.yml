@@ -1,66 +1,84 @@
-style: is-light
-height: is-medium
+cell_width: is-7
+text_align: has-text-left
 
 categories:
   - items: 
-    - header: FLOW Lab Projects
-  
-    - title: GO-SLOW
-      subtitle: Glider Observations of Submesoscales in Low Oxygen Waters
-      #icon: fa-space-shuttle
-      description: >
-        GO-SLOW is a collection of projects which together work to understand processes driving oxygen supply and consumption in the Gulf of Oman, home to the world thickest oxygen minimum zone.
-         
-        ONR Global Grant #N62909-21-1-2008 
-        
-        FORMAS Grant #2022-01536
-      # call_to_action_name: Read more
-      # call_to_action_link: /projects/goslow/
-      
-    - title: Nord Stream
-      subtitle: Tracking the Nord Stream methane leak in the hypoxic waters of the Baltic Sea
-      #icon: fa-wrench
-      description: >
-        This project is a collaboration between FLOW, VOTO and Alseamar. We deployed gliders around the Nord Stream leak sites for 3 months following the blow out. 
-         
-        Data is being processed at the moment.
-      call_to_action_name: Find out more (in Swedish)
-      call_to_action_link: https://www.svt.se/nyheter/lokalt/vast/efter-nord-stream-lackorna-sa-sprids-metangasen-fortfarande-i-havet
-      
-      
-      
-      
-      
-      
-      
-      
-  - items:
-    - header: Partner Projects
+    - header: PhD studentships
     
-    - title: QUICCHE
-      subtitle: QUantifying Interocean fluxes in the Cape Cauldron Hotspot of Eddy kinetic energy
-      #icon: fa-space-shuttle
+    - subtitle: Glider Observations of Submesoscales in Low Oxygen Waters
       description: >
-        PIs: Lisa Beal (RSMAS, USA), Kathleen Donohue (URI, USA), Chris Roman (URI, USA), Yueng Lenn (Bangor, UK), and Sebastiaan Swart (Gothenburg Sweden).
-      call_to_action_name: Read more
-      call_to_action_link: https://www.swot-adac.org/campaigns/quicche/
+        Advertisement will be published Feb or March 2023. Get in touch for details before that.  
+          
+        The project is funded by the Swedish Council for Sustainable Development. The research topic involves working on microstructure turbulence data collected by gliders in the Arabian Sea to understand mixing of oxygen into the oxygen minimum zone, and nutrients to the surface fuelling primary production.
+          
+        ---
       
-    - title: VOTO
-      subtitle: Partnership with the Voice of the Ocean Foundation
-      #icon: fa-github
+
+  - items:
+    - header: MSc projects (Physical)
+    
+    - subtitle: Deriving diapycnal exchange rates due from internal waves in the Baltic Sea (45-60hp)
       description: >
-        Voice of the Ocean is a foundation which conducts, supports and promotes science and communication regarding the ocean and its dynamic processes.
-         
-        FLOW works closely with VOTO to improve tools and methods for observing low oxygen in the Baltic Sea.
-      call_to_action_name: See the data
-      call_to_action_link: http://observations.voiceoftheocean.org/
+        **Contact persons**: Bastien Queste, Martin Mohrmann (Voice of the Ocean Foundation)  
+          
+        The aim of the project is to identify waves in Bornholm Basin and quantify their role in diapycnal exchanges. For this task, we will use data from the Bornholm observatory run by Voice of the Ocean Foundation (2021-2022) where we have near continuous high-resolution data from ocean gliders.  
+          
+        - Identify and analytically derive phase speed, frequency and wavelength of waves.  
+          
+        - Perform modal decomposition and spectral analysis.  
+          
+        - Using the observed density perturbations, amplitudes and current velocities, we derive the kinetic and potential energy of the waves. Using the wave energies, we estimate the dissipation rate (Lass et al., 2003), and turbulent diapycnal exchange coefficients (Reissmann et al., 2009).  
+          
+        ---
+
+        
+    - subtitle: Determining the role of eddies in driving primary production and carbon export in the Arabian Sea Oxygen Minimum Zone (45-60hp)
+      description: >
+        **Contact persons**: Bastien Queste, Estel Font  
+          
+        The oxygen minimum zone exists because oxygen consumption is greater than oxygen supply. Oxygen consumption is driven by the decay of organic matter sinking through the OMZ. The aim of the project is to estimate production and sinking organic carbon throughout a 9 month timeseries and identify the physical drivers of this export.
+        Estel Font is working on the dataset for her PhD and has already identified a number of important eddy case studies to observe.  
+          
+        - Estimate primary productivity from optics and oxygen, estimate export rates from optics.  
+          
+        - Identify physical processes causing subduction of phytoplankton patches and export events.  
+          
+        - Describe the seasonal variability and impact on oxygen demand in the OMZ.
+          
+        ---
+        
+        
+    - subtitle: TARSAN & ARTEMIS projects - Controls of surface mixed layer variability (45-60hp)
+      description: >
+        **Contact persons**: Bastien Queste and Marcel du Plessis (GU)  
+          
+        Several large glaciers terminate in the Amundsen Sea. The rapid cooling of dry air above the Antarctic creates incredibly strong katabatic winds which blow over the Amundsen Sea.  
+          
+        These winds cause rapid heat loss and convection in the ocean. We suspect this convection brings nutrient- and iron-rich water to the surface fuelling some of the largest blooms world-wide.  
+          
+        The aim of the project is to quantify surface heat fluxes and front-wind interactions to identify mixed layer deepening and mixed layer pumping events.
+          
+        ---
       
-    - title: TARSAN & ARTEMIS
-      subtitle: Details coming...
-      
-    - title: WIOSymphony
-      subtitle: Details coming...
-      
-    - title: GROOM RI
-      subtitle: Details coming...
-  
+
+
+  - items:
+    - header: MSc projects (Biological)
+    
+    - subtitle: TARSAN & ARTEMIS projects - Estimating biological productivity from optics, nitrate and oxygen data (45-60hp)
+      description: >
+        **Contact persons**: Bastien Queste and Hilde Oliver (WHOI)  
+          
+        We have been measuring primary productivity for over a hundred years, and we still can’t do it very well. Doing it remotely is even more difficult. The Amundsen Sea is home to one of the largest phytoplankton blooms worldwide. We have glider observations during a period of peak productivity with oxygen, optical and nitrate sensors.  
+          
+        The aim of the project is to apply and combine algorithms using each of these sensors to get accurate measurements of primary productivity and develop new methods for assessment from gliders.
+          
+        ---
+        
+    - subtitle: The greatest migration on earth - understanding the impact of lantern fish on carbon cycling in the oxygen minimum zone. (45-60hp)
+      description: >
+        **Contact persons**: Bastien Queste and Jeroen van der Kooij (Cefas)  
+          
+        *Myctophids*, or lantern fish, are the most populous vertebrates worldwide. They migrate every day from the surface to the deep and back, to feed and avoid predators. In this way, they represent a huge vertical transport of organic carbon. Using acoustic backscatter from the glider ADCPs, we want to understand how their migration is affected by the oxygen minimum zone, and how they may impact carbon export.  
+          
+        ---
