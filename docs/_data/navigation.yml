@@ -4,11 +4,11 @@
 - name: • Research
   link: /research.html
       
-#- name: • Publications
-#  link: /publications/
-      
 - name: • Student projects
   link: /projects.html
+      
+- name: • Publications
+  link: /publications/
       
 #- name: • Tools and Instruments
 #  link: /tools/
