@@ -1,5 +1,5 @@
 ---
-title: Projects @ FLOW-Lab
+title: Projects @ FLOW Lab
 # subtitle: 
 hero_image: /img/hero-banner.jpg
 layout: page

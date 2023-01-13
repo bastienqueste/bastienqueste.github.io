@@ -3,23 +3,22 @@
   
     - link: /img/people/bastien.jpg
       description: |-
-        **Bastien Queste**
-        
+        **Bastien Queste**  
         Assistant Prof.
       ratio: is-1by1
             
     - link: https://pbs.twimg.com/profile_images/1429525713045135361/vctapLc0_400x400.jpg
       description:  |-
-        **Estel Font**
-        
-        PhD Student (2021 - ...)
+        **Estel Font**  
+        PhD Student  
+        (2021 - ...)
       ratio: is-1by1
             
     - link: https://upload.wikimedia.org/wikipedia/commons/0/0f/Blank_Square.svg
       description:  |-
-        **Recruiting**
-        
-        PhD Student (2023 - ...)
+        **Recruiting ...**  
+        PhD Student  
+        (2023 - ...)
       ratio: is-1by1
 
 
@@ -28,28 +27,22 @@
   
     - link: https://media.licdn.com/dms/image/C4E03AQFc9fyj59u3Fg/profile-displayphoto-shrink_800_800/0/1659285215449?e=1678924800&v=beta&t=vPH6jJ_ECwPDRZDO95oTMvon1GXqEzrgD3bqdPGU7PY
       description: |-
-        **Mariana Maia Pacheco**
-        
-        PhD Student
-         
+        **Mariana Maia Pacheco**  
+        PhD Student  
         University of Bristol
       ratio: is-1by1
         
     - link: https://pbs.twimg.com/profile_images/828314637821149185/GvMu_73h_400x400.jpg
       description: |-
-        **Elise Droste**
-        
-        PhD Student
-         
+        **Elise Droste**  
+        PhD Student  
         University of East Anglia
       ratio: is-1by1
       
     - link: /img/people/martina.jpg
       description: |-
-        **Martina Bristow**
-        
-        PhD Student
-         
+        **Martina Bristow**  
+        PhD Student  
         University of East Anglia
       ratio: is-1by1
 
@@ -60,44 +53,36 @@
         
     - link: /img/people/JohanEmil.png
       description: |-
-        **Emil Moncanis & Johan Verquier**
-        
-        MSc Interns
-         
+        **Emil Moncanis & Johan Verquier**  
+        MSc Interns  
         L'Ecole Navale
       ratio: is-1by1
       
     - link: https://i1.rgstatic.net/ii/profile.image/810086435913730-1570151065997_Q128/Chiara-Monforte.jpg
       description: |-
-        **Chiara Monforte**
-        
-        MSc Student
-         
+        **Chiara Monforte**  
+        MSc Student  
         University of Gothenburg
       ratio: is-1by1
       
     - link: /img/people/rob.jpg
       description: |-
-        **Robert Blackwell**
-        
-        PhD Student
-         
+        **Robert Blackwell**  
+        PhD Student  
         University of East Anglia
       ratio: is-1by1
       
     - link: https://www.ismer.ca/images/recherche/equipe/cauchy-pierre_ismer.jpg
       description: |-
-        **Pierre Cauchy** - PhD Student
-         
+        **Pierre Cauchy**  
+        PhD Student  
         University of East Anglia
       ratio: is-1by1
       
     - link: https://pbs.twimg.com/profile_images/604425115133194241/E6BoNeRI_400x400.jpg
       description: |-
-        **Marina Azaneu**
-        
-        PhD Student
-         
+        **Marina Azaneu**  
+        PhD Student  
         University of East Anglia
       ratio: is-1by1
       
