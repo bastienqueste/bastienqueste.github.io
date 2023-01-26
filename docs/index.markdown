@@ -18,4 +18,4 @@ Oxygen minimum zones are vast layers in the ocean with little to no oxygen and v
 
 **Keywords:** `ventilation`, `remineralisation`, `carbon export`, `eddies`, `submesoscale processes`, `autonomous platforms`, `Arabian Sea`, `Baltic Sea`, `oxygen minimum zones`.
 
-**Contact:** `bastien.queste@marine.gu.se`
+**Contact details:** `[bastien.queste@marine.gu.se](https://www.gu.se/om-universitetet/hitta-person/bastienqueste)`
