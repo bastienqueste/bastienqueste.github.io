@@ -4,7 +4,7 @@
     - link: /img/people/bastien.jpg
       description: |-
         **Bastien Queste**  
-        Assistant Prof.
+        Associate Prof.
       ratio: is-1by1
             
     - link: https://pbs.twimg.com/profile_images/1429525713045135361/vctapLc0_400x400.jpg
@@ -16,9 +16,30 @@
             
     - link: https://upload.wikimedia.org/wikipedia/commons/0/0f/Blank_Square.svg
       description:  |-
-        **Recruiting ...**  
+        **Mauro Pinto**  
         PhD Student  
-        (2023 - ...)
+        (2024 - ...)
+      ratio: is-1by1
+            
+    - link: https://upload.wikimedia.org/wikipedia/commons/0/0f/Blank_Square.svg
+      description:  |-
+        **Blandine Jacob**  
+        MSc Student  
+        (2023 - 2024)
+      ratio: is-1by1
+            
+    - link: https://upload.wikimedia.org/wikipedia/commons/0/0f/Blank_Square.svg
+      description:  |-
+        **Jan Śliwiński**  
+        MSc Student  
+        (2023 - 2024)
+      ratio: is-1by1
+            
+    - link: https://upload.wikimedia.org/wikipedia/commons/0/0f/Blank_Square.svg
+      description:  |-
+        **Paul Nemeth**  
+        MSc Student  
+        (2023 - 2024)
       ratio: is-1by1
 
 
