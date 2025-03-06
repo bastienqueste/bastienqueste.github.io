@@ -6,10 +6,6 @@ layout: page
 show_sidebar: true
 ---
 
-
-
-# About us
-
 <img src="img/FLOWLab_full.png" alt="FLOW Lab" width="15%"/>
 
 The **FLOW Lab** (Fluxes in Low Oxygen Waters) is a research group at the Department of Marine Sciences, University of Gothenburg (Sweden).
