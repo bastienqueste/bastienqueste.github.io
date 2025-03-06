@@ -5,19 +5,28 @@ categories:
   - items: 
     - header: PhD studentships
     
-    - subtitle: Glider Observations of Submesoscales in Low Oxygen Waters
+    - subtitle: Understanding the occurrence of trace oxygen filaments in oxygen minimum zones using autonomous underwater gliders and novel sensors
       description: >
-        Advertisement will be published Feb or March 2023. Get in touch for details before that.  
+        Advertisement will be published spring 2025 for a start by Jan 1 2026. Get in touch for details before that.  
           
-        The project is funded by the Swedish Council for Sustainable Development. The research topic involves working on microstructure turbulence data collected by gliders in the Arabian Sea to understand mixing of oxygen into the oxygen minimum zone, and nutrients to the surface fuelling primary production.
+        Details will also be posted here.
           
         ---
       
-
   - items:
-    - header: Physical projects
+    - header: Project list
     
-    - subtitle: Deriving diapycnal exchange rates due from internal waves in the Baltic Sea
+    - subtitle: Types of projects
+      description: >
+        We have a range of projects available, not all of them listed on this website, spanning physical oceanography to biogeochemistry.
+        We can accomodate 15 or 30 hp project for BSc; while we prefer 60 hp projects for MSc as this allows deeper, more interesting research avenues.
+
+        We currently have datasets from the Antarctic and Arabian Sea needing further work; get in touch with us to find out more!
+          
+        ---
+
+    
+    - subtitle: Deriving diapycnal exchange rates due to internal waves in the Baltic Sea
       description: >
         **Contact persons**: Bastien Queste, Martin Mohrmann (Voice of the Ocean Foundation)  
           
@@ -46,24 +55,7 @@ categories:
         - Describe the seasonal variability and impact on oxygen demand in the OMZ.
           
         ---
-        
-        
-    - subtitle: TARSAN & ARTEMIS projects - Controls of surface mixed layer variability
-      description: >
-        **Contact persons**: Bastien Queste and Marcel du Plessis (GU)  
-          
-        Several large glaciers terminate in the Amundsen Sea. The rapid cooling of dry air above the Antarctic creates incredibly strong katabatic winds which blow over the Amundsen Sea.  
-          
-        These winds cause rapid heat loss and convection in the ocean. We suspect this convection brings nutrient- and iron-rich water to the surface fuelling some of the largest blooms world-wide.  
-          
-        The aim of the project is to quantify surface heat fluxes and front-wind interactions to identify mixed layer deepening and mixed layer pumping events.
-          
-        ---
-      
-
-
-  - items:
-    - header: Biological projects
+  
     
     - subtitle: TARSAN & ARTEMIS projects - Estimating biological productivity from optics, nitrate and oxygen data
       description: >
