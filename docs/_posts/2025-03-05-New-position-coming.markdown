@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "PhD position coming soon"
+date:   2025-03-05 12:00:00 +0100
+categories: jekyll update
+---
 We will be advertising for a new PhD position in spring 2025, for a start before Jan 1 2026.
 
 This PhD studentship at the interface of physical and biogeochemical oceanography is part of the ERC Synergy project RECLESS 
