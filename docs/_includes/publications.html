@@ -1,11 +1,11 @@
 {% if page.publications %}
   {% assign publications=site.data.[page.publications] %}
   <div class="columns is-multiline is-centered">
-    <section class="section">List produced from Scopus. Data may be incomplete.</section>
-    <div class="column is-12">
+    <section class="section">List produced from Scopus on Mar 5 2025. Data may be incomplete.</section>
+    <div class="column is-9">
       {% for pub in publications %}
         
-        <p><b>{{ forloop.index }}.</b> {{ pub["﻿Authors"] }} <b>({{ pub["Year"] }})</b>. {{ pub["Title"] }}. <i>{{ pub["Source title"] }}</i>. doi:<a href="https://doi.org/{{ pub["DOI"] }}">{{ pub["DOI"] }}</a></p></br>
+        <p><b>{{ forloop.index }}.</b> {{ pub["﻿AuthorNames"] }} <b>({{ pub["Year"] }})</b>. {{ pub["Title"] }}. <i>{{ pub["Source title"] }}</i>. doi:<a href="https://doi.org/{{ pub["DOI"] }}">{{ pub["DOI"] }}</a></p></br>
         
       {% endfor %}
     </div>
