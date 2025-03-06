@@ -14,10 +14,9 @@ categories:
         ---
       
   - items:
-    - header: Project list
+    - header: BSc and MSc projects
     
-    - subtitle: Types of projects
-      description: >
+    - description: >
         We have a range of projects available, not all of them listed on this website, spanning physical oceanography to biogeochemistry.
         We can accomodate 15 or 30 hp project for BSc; while we prefer 60 hp projects for MSc as this allows deeper, more interesting research avenues.
 
