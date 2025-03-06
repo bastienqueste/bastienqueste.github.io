@@ -27,11 +27,11 @@ scholar:
   style: apa
   locale: en
 
-  sort_by: none
+  sort_by: year,month
   order: ascending
 
   group_by: none
-  group_order: ascending
+  group_order: descending
 
   source: ./_data
   bibliography: scopus.bib
