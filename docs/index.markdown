@@ -10,6 +10,8 @@ show_sidebar: true
 
 # About us
 
+<img src="img/FLOWLab_full.png" alt="FLOW Lab" width="15%"/>
+
 The **FLOW Lab** (Fluxes in Low Oxygen Waters) is a research group at the Department of Marine Sciences, University of Gothenburg (Sweden).
 
 Oxygen minimum zones are vast layers in the ocean with little to no oxygen and vital implications for marine habitats, carbon and nitrogen cycling, and greenhouse gas production. Over the last 50 years, global oceans have been warming and deoxygenating, yet leading climate models are unable to reproduce observed changes in oxygen minimum zones and forecasts vary drastically under all future climate scenarios. The main obstacle is that models cannot resolve features smaller than their computational grid cells and use simplified biogeochemistry and biology. 
