@@ -32,7 +32,7 @@ scholar:
   group_order: ascending
 
   source: ./_data
-  bibliography: references.bib
+  bibliography: scopus.bib
   bibliography_template: ""
 
   replace_strings: true
