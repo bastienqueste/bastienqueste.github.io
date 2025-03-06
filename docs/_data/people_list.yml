@@ -4,27 +4,34 @@
     - link: /img/people/bastien.jpg
       description: |-
         **Bastien Queste**  
-        Associate Professor
+        
+        Associate Professor and Docent; Physical oceanography with specialisation in biogeochemical cycling.
       ratio: is-1by1
             
     - link: https://pbs.twimg.com/profile_images/1429525713045135361/vctapLc0_400x400.jpg
       description:  |-
         **Estel Font**  
+        
         PhD Student - Ventilation of the Arabian Sea Oxygen Minimum Zone
+        
         2021 - *ongoing*
       ratio: is-1by1
             
     - link: /img/people/MauroPinto.jpg
       description:  |-
         **Mauro Pinto**  
+        
         PhD Student - Mixing dynamics in the Oxygen Minimum Zone of the Arabian Sea
+        
         2024 - *ongoing*
       ratio: is-1by1
             
     - link: /img/people/MauroPinto.jpg
       description:  |-
         **Teresa Peil** (*main supervisor Carina Bunse*)
+        
         PhD Student - Effects of nutrient and trace metal stoichiometry on marine bacterial communities and organic matter cycling.
+        
         2024 - *ongoing*
       ratio: is-1by1
       
@@ -34,42 +41,54 @@
     - link: /img/people/BlandineJacob.jpg
       description:  |-
         **Blandine Jacob**  
+        
         [Turbulent heat flux dynamics along the Dotson and Getz ice-shelf fronts (Amundsen Sea, Antarctica)](https://os.copernicus.org/articles/21/359/2025/)
+        
         (2023 - 2024)
       ratio: is-1by1
             
     - link: /img/people/JanSliwinski.jpg
       description:  |-
         **Jan Śliwiński**  
+        
         Assessing remote sensing biases in primary productivity estimations in the Amdunsen Sea polynya, Antarctica.
+        
         (2023 - 2024)
       ratio: is-1by1
             
     - link: /img/people/PaulNemeth.jpg
       description:  |-
         **Paul Nemeth**  
+        
         Impact of instabilities on the variability of the deep chlorophyll maximum.
+        
         (2023 - 2024)
       ratio: is-1by1
       
     - link: https://i1.rgstatic.net/ii/profile.image/810086435913730-1570151065997_Q128/Chiara-Monforte.jpg
       description: |-
         **Chiara Monforte**  
+        
         Observing small scale physical drivers of primary production in the Skagerrak region.
+        
         (2021 - 2022)
       ratio: is-1by1
         
     - link: /img/people/JohanEmil.png
       description: |-
         **Leandre Beaufort & Gael Sanquer**  
+        
         MSc Interns  
+        
         L'Ecole Navale (2022)
       ratio: is-1by1
         
     - link: /img/people/JohanEmil.png
       description: |-
         **Emil Moncanis & Johan Verquier**
+        
         MSc Interns  
+        
         L'Ecole Navale (2021)
       ratio: is-1by1      
       
@@ -79,13 +98,19 @@
     - link: /img/people/JanSliwinski.jpg
       description:  |-
         **Michaela Edwinsson**  
-        Internal waves and their tidal constituents in the Gulf of Oman. (2022)
+        
+        Internal waves and their tidal constituents in the Gulf of Oman. 
+        
+        (2022)
       ratio: is-1by1
             
     - link: /img/people/PaulNemeth.jpg
       description:  |-
         **Amelia Thelandersson**  
-        Optimising the Use of Gliders for Measurement of Zooplankton Migration (2021)
+        
+        Optimising the Use of Gliders for Measurement of Zooplankton Migration 
+        
+        (2021)
       ratio: is-1by1 
 
 - title: Friends of FLOW
@@ -94,18 +119,21 @@
     - link: /img/people/polar_glider_logo_square.png
       description: |-
         **Polar Gliders**
+        
         [polargliders.com](http://www.polargliders.com)
       ratio: is-1by1
       
     - link: https://ueaglider.uea.ac.uk/static/img/icons/uea_sg_logo.jpg
       description: |-
         **UEA Gliders**
-        [ueaglider.uea.ac.uk/](https://ueaglider.uea.ac.uk/)
+        
+        [ueaglider.uea.ac.uk](https://ueaglider.uea.ac.uk/)
       ratio: is-1by1
       
     - link: /img/people/voto.png
       description: |-
         **Voice of the Ocean (VOTO)**
+        
         [voiceoftheocean.org](https://voiceoftheocean.org/ocean-knowledge/)
       ratio: is-1by1
 
