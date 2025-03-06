@@ -1,8 +1,6 @@
 {% if page.gallery_nopic %}
-    test1
     {% assign galleries=site.data.[page.gallery_nopic] %}
     {% for gallery in galleries %}
-        test2
         <div class="columns is-multiline">
             <div class="column is-12">
                 <p class="title is-3 has-text-centered">{{ gallery.title }}</p>
