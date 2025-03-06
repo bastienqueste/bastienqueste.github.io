@@ -4,5 +4,5 @@ title: People @ FLOW Lab
 hero_image: /img/hero-banner.jpg
 layout: page
 show_sidebar: false
-callouts: gallery_nopic
+gallery: people_list
 ---
