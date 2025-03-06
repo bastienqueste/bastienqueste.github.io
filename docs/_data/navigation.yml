@@ -10,10 +10,11 @@
 - name: • `gliderad2cp` python toolbox
   link: https://www.flow-lab.org/gliderad2cp/
       
-#- name: • Tools and Instruments
-#  link: /tools/
-#  dropdown: 
-#    - name: SEA057 "King Tubby"
-#      link: /SEA057/
-#    - name: SEA070 "Scratch"
-#      link: /SEA070/
+- name: • Group tools (login required)
+  dropdown: 
+    - name: Compute server
+      link: https://compute.flow-lab.org/
+    - name: Zulip discussions
+      link: https://chat.flow-lab.org/
+    - name: Observations platform
+      link: https://observations.flow-lab.org/
