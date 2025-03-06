@@ -6,9 +6,9 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 
-# gem "jekyll", "~> 4.3.1"
+gem "jekyll"
 # Run github pages instead
-gem 'github-pages', '~> 232'
+# gem 'github-pages', '~> 232'
 
 # Breaks without...
 gem "webrick"
