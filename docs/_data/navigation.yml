@@ -1,14 +1,14 @@
 - name: • People
   link: /people.html
       
-- name: • Research
-  link: /research.html
-      
 - name: • Student projects
   link: /projects.html
       
 - name: • Publications
   link: /publications.html
+      
+- name: • Py: gliderad2cp
+  link: /gliderad2cp
       
 #- name: • Tools and Instruments
 #  link: /tools/
