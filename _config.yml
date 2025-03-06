@@ -12,6 +12,7 @@ github_username:  bastienqueste
 # Build settings with GitHub Pages Gem
 
 theme: bulma-clean-theme
+force_theme: light
 
 plugins:
   - jekyll-feed
