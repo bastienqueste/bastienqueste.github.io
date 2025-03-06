@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "~~Now Recruiting!~~"
+title:  "PhD recruitment (2023)"
 date:   2023-04-25 12:00:00 +0100
 categories: jekyll update
 ---
