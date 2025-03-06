@@ -13,6 +13,7 @@ github_username:  bastienqueste
 
 theme: bulma-clean-theme
 force_theme: light
+theme_color: '#024C8B'
 
 plugins:
   - jekyll-feed
