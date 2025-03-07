@@ -35,7 +35,7 @@ scholar:
 
   source: ./_data
   bibliography: scopus.bib
-  bibliography_template: ""
+  bibliography_template: bib
 
   replace_strings: true
   join_strings:    true
