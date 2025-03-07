@@ -1,9 +1,10 @@
 ---
 ---
 <div class="text-justify">
-    {{reference}}
     {% if entry.doi %}
-    <span><a href="{{ entry.doi | prepend: 'http://doi.org/' }}">{{ entry.doi | prepend: 'http://doi.org/' }}</a></span>
+    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}">{{reference}}</a>
+    {% else %}
+    {{reference}}
     {% endif %}
-    {{ entry.author }} ({{ year }}) {{ entry.title }}
+    <p><br></p>
 </div>
