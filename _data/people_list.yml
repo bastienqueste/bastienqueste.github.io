@@ -65,7 +65,7 @@
         (2023 - 2024)
       ratio: is-1by1
       
-    - link: https://i1.rgstatic.net/ii/profile.image/810086435913730-1570151065997_Q128/Chiara-Monforte.jpg
+    - link:  /img/people/ChiaraMonforte.png
       description: |-
         **Chiara Monforte**  
         
@@ -74,7 +74,7 @@
         (2021 - 2022)
       ratio: is-1by1
         
-    - link: 
+    - link: /img/people/blank.png
       description: |-
         **Leandre Beaufort & Gael Sanquer**  
         
@@ -83,7 +83,7 @@
         L'Ecole Navale (2022)
       ratio: is-1by1
         
-    - link: 
+    - link: /img/people/blank.png
       description: |-
         **Emil Moncanis & Johan Verquier**
         
@@ -95,7 +95,7 @@
 - title: Past members (BSc)
   images:
             
-    - link: 
+    - link: /img/people/blank.png
       description:  |-
         **Michaela Edwinsson**  
         
@@ -104,7 +104,7 @@
         (2022)
       ratio: is-1by1
             
-    - link: 
+    - link: /img/people/blank.png
       description:  |-
         **Amelia Thelandersson**  
         
