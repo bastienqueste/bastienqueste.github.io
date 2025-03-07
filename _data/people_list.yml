@@ -1,7 +1,7 @@
 - title: Current members
   images:
   
-    - link: /img/people/bastien.jpg
+    - link: /img/people/BastienQueste.png
       description: |-
         **Bastien Queste**  
         
@@ -26,7 +26,7 @@
         2024 - *ongoing*
       ratio: is-1by1
             
-    - link: /img/people/MauroPinto.jpg
+    - link: /img/people/TeresaPeil.jpg
       description:  |-
         **Teresa Peil** (*main supervisor Carina Bunse*)
         
@@ -47,7 +47,7 @@
         (2023 - 2024)
       ratio: is-1by1
             
-    - link: /img/people/JanSliwinski.jpg
+    - link: /img/people/JanSliwinski.JPG
       description:  |-
         **Jan Śliwiński**  
         
@@ -74,7 +74,7 @@
         (2021 - 2022)
       ratio: is-1by1
         
-    - link: /img/people/JohanEmil.png
+    - link: 
       description: |-
         **Leandre Beaufort & Gael Sanquer**  
         
@@ -83,7 +83,7 @@
         L'Ecole Navale (2022)
       ratio: is-1by1
         
-    - link: /img/people/JohanEmil.png
+    - link: 
       description: |-
         **Emil Moncanis & Johan Verquier**
         
@@ -95,7 +95,7 @@
 - title: Past members (BSc)
   images:
             
-    - link: /img/people/JanSliwinski.jpg
+    - link: 
       description:  |-
         **Michaela Edwinsson**  
         
@@ -104,7 +104,7 @@
         (2022)
       ratio: is-1by1
             
-    - link: /img/people/PaulNemeth.jpg
+    - link: 
       description:  |-
         **Amelia Thelandersson**  
         
