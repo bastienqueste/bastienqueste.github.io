@@ -54,7 +54,7 @@
     </choose>
   </macro>
   <macro name="DOI">
-    <text variable="DOI" prefix=" - http://doi.org/"/>
+    <text variable="DOI" prefix=". doi:"/>
   </macro>
   <citation collapse="citation-number">
     <sort>
