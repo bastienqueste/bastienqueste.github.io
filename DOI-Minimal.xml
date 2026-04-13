@@ -2,7 +2,7 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
   <info>
     <title>DOI-Minimal</title>
-    <id>http://csl.mendeley.com/styles/20448741/DOI-Minimal</id>
+    <id>http://flow-lab.org/DOI-Minimal</id>
     <category citation-format="numeric"/>
     <category field="science"/>
     <category field="generic-base"/>
