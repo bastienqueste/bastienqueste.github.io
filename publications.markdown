@@ -8,6 +8,4 @@ permalink: /publications.html
 
 Scopus export date : 10 June 2026
 
----
-
 {% bibliography %}
