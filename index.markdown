@@ -19,10 +19,10 @@ Oxygen minimum zones are vast layers in the ocean with little to no oxygen and v
 **Contact details:** [bastien.queste@marine.gu.se](https://www.gu.se/om-universitetet/hitta-person/bastienqueste)
 
 
-<img src="img/Schematics/Map.png" alt="Fluxes in low oxygen regions" width="90%"/>
+<img src="img/Schematics/Map.png" alt="Fluxes in low oxygen regions" width="60%"/>
  
 Oxygen minimum zones (*above*, in red) form subsurface layers beneath vast ocean regions, where the balance between aerobic and anaerobic respiration regulates carbon storage and drives marine nitrogen loss.
 
-<img src="img/Schematics/Schematic2.png" alt="Fluxes in low oxygen regions" width="90%"/>
+<img src="img/Schematics/Schematic2.png" alt="Fluxes in low oxygen regions" width="60%"/>
 
 (*above left*) Particulate and dissolved organic matter is exported (*1: green arrows*) by physical and biological export pumps to the OMZ providing fuel for respiration. Physical carbon pumps also cause simultaneous nutrient and O2 fluxes (*left, 1 & 2, red and purple arrows*). These fine-scale O2 fluxes contribute to variability locally, and remotely when advected (*2*), affecting which respiration pathways are expressed (*3: right*) with global climate impacts via carbon sequestration and nitrogen removal. 

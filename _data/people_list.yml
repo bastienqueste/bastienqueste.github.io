@@ -8,14 +8,6 @@
         Associate Professor and Docent; Physical oceanography with specialisation in biogeochemical cycling.
       ratio: is-1by1
             
-    - link: https://pbs.twimg.com/profile_images/1429525713045135361/vctapLc0_400x400.jpg
-      description:  |-
-        **Estel Font** (*co-supervisor Sebastiaan Swart, GU*)
-        
-        PhD Student - Ventilation of the Arabian Sea Oxygen Minimum Zone
-        
-        2021 - *ongoing*
-      ratio: is-1by1
             
     - link: /img/people/MauroPinto.jpg
       description:  |-
@@ -26,6 +18,17 @@
         2024 - *ongoing*
       ratio: is-1by1
             
+            
+    - link: /img/people/MathildeGirardot.jpg
+      description:  |-
+        **Mathilde Girardot** (*co-supervisor Laura Bristow*)
+        
+        PhD Student - Trace oxygen variability and intrusions in Oxygen Minimum Zones.
+        
+        2025 - *ongoing*
+      ratio: is-1by1
+        
+            
     - link: /img/people/TeresaPeil.jpg
       description:  |-
         **Teresa Peil** (*main supervisor Carina Bunse, GU*)
@@ -35,27 +38,18 @@
         2024 - *ongoing*
       ratio: is-1by1
 
-      
-- title: Affiliate faculty
-  images:           
-     - link: https://www.gu.se/sites/default/files/styles/33_10_13_xmedium_2x/public/pop_assets/43af2746-55f1-4813-8057-eff303b87d73-photo.jpg
-       description:  |-
-         **Carina Bunse**  
-         
-         Assistant Professor - [Marine Microbial Ecology](https://www.gu.se/en/research/marine-microbial-ecology-group-mmeco)
-             
-     - link: https://schmidtocean.org/wp-content/uploads/LauraBristow-768x988.jpg
-       description:  |-
-         **Laura Bristow**  
-         
-         Associate Professor - [Microbial nitrogen cycling in OMZ](https://www.gu.se/en/about/find-staff/laurabristow)
-             
-     - link: https://sebswart.com/wp-content/uploads/2018/03/sebastian-swart_autumn.jpg
-       description:  |-
-         **Sebastiaan Swart**  
-         
-         Professor - [Oceanographic-climate research by the Polar Gliders group](https://sebswart.com/)
-       
+    
+- title: Past members (PhD graduates)
+  images:       
+    - link: https://pbs.twimg.com/profile_images/1429525713045135361/vctapLc0_400x400.jpg
+      description:  |-
+        **Estel Font** (*co-supervisor Sebastiaan Swart, GU*)
+        
+        PhD Student - Ventilation of the Arabian Sea Oxygen Minimum Zone
+        
+        2021 - 2025
+      ratio: is-1by1
+
 - title: Past members (MSc)
   images:
             
@@ -133,7 +127,33 @@
         
         (2021)
       ratio: is-1by1 
+  
+- title: Affiliate members
+  images:           
+     - link: https://schmidtocean.org/wp-content/uploads/LauraBristow-768x988.jpg
+       description:  |-
+         **Laura Bristow**  
+         
+         Associate Professor - [Microbial nitrogen cycling in OMZ](https://www.gu.se/en/about/find-staff/laurabristow)
 
+     - link: /img/people/LeoMiddleton.jpg
+       description:  |-
+         **Leo Middleton**  
+         
+         Researcher - All things mixing and double diffusion.
+             
+     - link: https://sebswart.com/wp-content/uploads/2018/03/sebastian-swart_autumn.jpg
+       description:  |-
+         **Sebastiaan Swart**  
+         
+         Professor - [Oceanographic-climate research by the Polar Gliders group](https://sebswart.com/)
+
+     - link: https://www.gu.se/sites/default/files/styles/33_10_13_xmedium_2x/public/pop_assets/43af2746-55f1-4813-8057-eff303b87d73-photo.jpg
+       description:  |-
+         **Carina Bunse**  
+         
+         Assistant Professor - [Marine Microbial Ecology](https://www.gu.se/en/research/marine-microbial-ecology-group-mmeco)
+       
 - title: Friends of FLOW
   images:
   
