@@ -5,11 +5,9 @@ categories:
   - items: 
     - header: PhD studentships
     
-    - subtitle: Understanding the occurrence of trace oxygen filaments in oxygen minimum zones using autonomous underwater gliders and novel sensors
+    - subtitle: None availabe at the moment.
       description: >
-        Advertisement will be published spring 2025 for a start by Jan 1 2026. Get in touch for details before that.  
-          
-        Details will also be posted here.
+        New positions are advertised here when funding is availabe.
           
         ---
       
@@ -20,56 +18,24 @@ categories:
         We have a range of projects available, not all of them listed on this website, spanning physical oceanography to biogeochemistry.
         We can accomodate 15 or 30 hp project for BSc; while we prefer 60 hp projects for MSc as this allows deeper, more interesting research avenues.
 
-        We currently have datasets from the Antarctic and Arabian Sea needing further work; get in touch with us to find out more!
+        We currently have datasets from the Arabian Sea, Baltic Sea and Arabian Sea needing further work; get in touch with us to find out more!
           
         ---
 
     
-    - subtitle: Deriving diapycnal exchange rates due to internal waves in the Baltic Sea
+    - subtitle: FLOW-Lab projects
+      description: >
+        **Contact persons**: Bastien Queste
+          
+        No pre-established topics are listed at the moment. To do your project with us, reach out and we will work towards identifying a scientific question suited to you and the group's current needs.
+
+        ---
+
+
+    - subtitle: Baltic Sea projects in collaboration with the Voice of the Ocean Foundation
       description: >
         **Contact persons**: Bastien Queste, Martin Mohrmann (Voice of the Ocean Foundation)  
           
-        The aim of the project is to identify waves in Bornholm Basin and quantify their role in diapycnal exchanges. For this task, we will use data from the Bornholm observatory run by Voice of the Ocean Foundation (2021-2022) where we have near continuous high-resolution data from ocean gliders.  
-          
-        - Identify and analytically derive phase speed, frequency and wavelength of waves.  
-          
-        - Perform modal decomposition and spectral analysis.  
-          
-        - Using the observed density perturbations, amplitudes and current velocities, we derive the kinetic and potential energy of the waves. Using the wave energies, we estimate the dissipation rate (Lass et al., 2003), and turbulent diapycnal exchange coefficients (Reissmann et al., 2009).  
-          
-        ---
+        Several projects are available through joint collaboration between VOTO and the University of Gothenburg, working on the Baltic glider observatories.
 
-        
-    - subtitle: Determining the role of eddies in driving primary production and carbon export in the Arabian Sea Oxygen Minimum Zone
-      description: >
-        **Contact persons**: Bastien Queste, Estel Font  
-          
-        The oxygen minimum zone exists because oxygen consumption is greater than oxygen supply. Oxygen consumption is driven by the decay of organic matter sinking through the OMZ. The aim of the project is to estimate production and sinking organic carbon throughout a 9 month timeseries and identify the physical drivers of this export.
-        Estel Font is working on the dataset for her PhD and has already identified a number of important eddy case studies to observe.  
-          
-        - Estimate primary productivity from optics and oxygen, estimate export rates from optics.  
-          
-        - Identify physical processes causing subduction of phytoplankton patches and export events.  
-          
-        - Describe the seasonal variability and impact on oxygen demand in the OMZ.
-          
-        ---
-  
-    
-    - subtitle: TARSAN & ARTEMIS projects - Estimating biological productivity from optics, nitrate and oxygen data
-      description: >
-        **Contact persons**: Bastien Queste and Hilde Oliver (WHOI)  
-          
-        We have been measuring primary productivity for over a hundred years, and we still can’t do it very well. Doing it remotely is even more difficult. The Amundsen Sea is home to one of the largest phytoplankton blooms worldwide. We have glider observations during a period of peak productivity with oxygen, optical and nitrate sensors.  
-          
-        The aim of the project is to apply and combine algorithms using each of these sensors to get accurate measurements of primary productivity and develop new methods for assessment from gliders.
-          
-        ---
-        
-    - subtitle: The greatest migration on earth - understanding the impact of lantern fish on carbon cycling in the oxygen minimum zone.
-      description: >
-        **Contact persons**: Bastien Queste and Jeroen van der Kooij (Cefas)  
-          
-        *Myctophids*, or lantern fish, are the most populous vertebrates worldwide. They migrate every day from the surface to the deep and back, to feed and avoid predators. In this way, they represent a huge vertical transport of organic carbon. Using acoustic backscatter from the glider ADCPs, we want to understand how their migration is affected by the oxygen minimum zone, and how they may impact carbon export.  
-          
         ---
