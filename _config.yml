@@ -89,7 +89,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "B. Y. Queste"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
