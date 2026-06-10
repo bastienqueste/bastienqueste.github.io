@@ -1,11 +1,9 @@
 ---
-
 layout: post
 title:  "Internal tides on the Al-Batinah shelf"
 date:   2026-01-05 12:00:00 +0100
 categories: jekyll update
--------------------------
-
+---
 A new paper by Gerd A. Bruss, Estel Font, Bastien Queste, and Rob A. Hall has been published in *Ocean Science*.
 
 The study, **"Internal tides on the Al-Batinah shelf: evolution, structure and predictability"**, uses moored temperature and velocity observations from the northern Oman shelf to investigate how internal tides evolve under strong stratification.

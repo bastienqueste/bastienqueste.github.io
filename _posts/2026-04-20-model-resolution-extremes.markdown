@@ -1,11 +1,9 @@
 ---
-
 layout: post
 title:  "Model resolution matters for marine biogeochemical extremes"
 date:   2026-04-20 12:00:00 +0200
 categories: jekyll update
--------------------------
-
+---
 A new paper in *Journal of Geophysical Research: Oceans* investigates how ocean-model resolution affects the simulation of marine biogeochemical extremes.
 
 The study, **"The Role of Ocean Model Resolution in Simulating Marine Biogeochemical Extremes"**, examines marine heatwaves, low-oxygen extremes, acidification extremes, and the influence of ocean eddies.

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 title:  "Congratulations Estel!"
 date:   2025-10-16 16:00:00 +0200
 categories: jekyll update
--------------------------
-
-Congratulations to Estel Font I Felez on her doctoral thesis defence!
+---
+Congratulations to Estel Font on her doctoral thesis defence!
 
 Estel defended her thesis, **"Ventilation of the Arabian Sea Oxygen Minimum Zone"**, in Natural Science with specialization in Oceanography at the University of Gothenburg.
 

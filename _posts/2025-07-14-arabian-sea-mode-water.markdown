@@ -1,11 +1,9 @@
 ---
-
 layout: post
 title:  "Mode waters transport heat and oxygen in the Arabian Sea"
 date:   2025-07-14 12:00:00 +0200
 categories: jekyll update
--------------------------
-
+---
 Congratulations to Estel Font and co-authors on the publication of a new paper in *Ocean Science*.
 
 The study, **"On mode water formation and erosion in the Arabian Sea: forcing mechanisms, regionality, and seasonality"**, uses float observations and numerical models to understand how Arabian Sea mode waters form, erode, and influence the upper ocean.

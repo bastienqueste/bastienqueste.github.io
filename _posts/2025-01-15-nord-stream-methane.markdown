@@ -1,11 +1,9 @@
 ---
-
 layout: post
 title:  "Nord Stream methane spread across the southern Baltic Sea"
 date:   2025-01-15 12:00:00 +0100
 categories: jekyll update
--------------------------
-
+---
 A new study in *Nature Communications* shows how methane from the destroyed Nord Stream pipelines spread across a large part of the southern Baltic Sea and remained detectable for several months after the leak.
 
 The study combined high-resolution underwater glider observations with surface measurements from ferries and data from the University of Gothenburg's R/V *Skagerak*. Together, these observations provided a detailed picture of how methane was transported by ocean currents after the September 2022 pipeline explosions.
