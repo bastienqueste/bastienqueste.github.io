@@ -6,8 +6,6 @@ gem "bulma-clean-theme"
 # Bibliography add-on (BYQ 2025/03/05)
 gem 'jekyll-scholar'
 
-gem "sass-embedded"
-
 group :jekyll_plugins do
     gem "jekyll-feed"
     gem "jekyll-sitemap"
