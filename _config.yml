@@ -23,7 +23,17 @@ plugins:
 theme_color: '#074b89'
 fixed_navbar: top
 
-gems: ['jekyll/scholar']
+
+
+plugins:
+  - jekyll/scholar
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+  - jekyll-redirect-from
+
 scholar:
   style: apa
   locale: en
@@ -41,20 +51,7 @@ scholar:
   replace_strings: true
   join_strings:    true
 
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-
   query: "@*"
-
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-feed
-  - jekyll-seo-tag
-  - kramdown-parser-gfm
-  - jekyll-redirect-from
 
 exclude: 
   - Gemfile
