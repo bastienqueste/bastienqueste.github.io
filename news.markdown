@@ -1,8 +1,9 @@
 ---
 layout: page
-title: News
+title: FLOW Lab News
 subtitle: Updates from the FLOW Lab
-permalink: /news/
+hero_image: /img/hero-banner.jpg
+permalink: /news.html
 show_sidebar: false
 ---
 
