@@ -1,4 +1,4 @@
-﻿---
+---
 title: Publications @ FLOW Lab
 hero_image: /img/hero-banner.jpg
 layout: page
